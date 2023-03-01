@@ -1,7 +1,7 @@
-void reset_to_98(int *n){
-/*
- *reset the value of n to 98
- reset_to_98
- */	
-	*n=98;
+void reset_to_98(int *n) {
+	/*
+	 * reset_to_98 reset n to 98
+	 *
+	 * */
+	*n = 98;
 }
