@@ -1,1 +1,1 @@
-This a pointer project directory
+0x05. C - Pointers, arrays and strings
